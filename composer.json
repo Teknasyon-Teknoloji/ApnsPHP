@@ -1,5 +1,5 @@
 {
-	"name": "teknasyon-teknoloji/apple-push-notif",
+	"name": "teknasyon/apple-push-notif",
 	"type": "library",
 	"description": "Apple Push Notification & Feedback Provider",
 	"keywords": ["APNS", "apple", "push", "notification"],
